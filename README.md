@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Delphi" height="30" width="40" src="G:\Imagens\delphi_pt091o8s7pqv.svg">
+  <img align="center" alt="Delphi" height="30" width="40" src="https://icon666.com/pt/icon/delphi_pt091o8s7pqv">
   <img align="center" alt="Cobol" height="30" width="40" src=" ">
 
 ###
