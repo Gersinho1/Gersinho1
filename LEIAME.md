@@ -19,5 +19,5 @@
   <a href="https://instagram.com/gerson.lueders" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:luedersgerson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gerson-lueders-22554469/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://open.spotify.com/user/091mxb5tucoylq7p9w9o1o2yh?si=9fc676de2a7442f3"><img src="![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/091mxb5tucoylq7p9w9o1o2yh?si=9fc676de2a7442f3"><img src="(https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)" target="_blank"></a>
  
